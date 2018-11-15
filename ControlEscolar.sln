@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controlEscolar", "controlEscolar\controlEscolar.csproj", "{A565FA25-F5F3-421D-A5BC-0841F0F72F91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{177A9ADC-9605-47F7-BA32-05AA5FB6145F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177A9ADC-9605-47F7-BA32-05AA5FB6145F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177A9ADC-9605-47F7-BA32-05AA5FB6145F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177A9ADC-9605-47F7-BA32-05AA5FB6145F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87FF7C3E-40EE-48EA-A255-9AE207C91E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FF7C3E-40EE-48EA-A255-9AE207C91E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FF7C3E-40EE-48EA-A255-9AE207C91E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FF7C3E-40EE-48EA-A255-9AE207C91E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9092B400-B00E-49D5-9DB3-F0CB464D49EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9092B400-B00E-49D5-9DB3-F0CB464D49EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9092B400-B00E-49D5-9DB3-F0CB464D49EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9092B400-B00E-49D5-9DB3-F0CB464D49EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A565FA25-F5F3-421D-A5BC-0841F0F72F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A565FA25-F5F3-421D-A5BC-0841F0F72F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A565FA25-F5F3-421D-A5BC-0841F0F72F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A565FA25-F5F3-421D-A5BC-0841F0F72F91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
